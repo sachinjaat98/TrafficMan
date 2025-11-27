@@ -100,15 +100,6 @@ export PATH=/home/pi/.local/bin:$PATH
 
 
 
-### 2.4  Configure AWS CLI
-
-Configure the default AWS CLI
-
-aws configure
-AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE
-AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
-Default region name [None]: us-west-2
-Default output format [None]: json
 
 
 
