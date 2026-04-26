@@ -1,5 +1,5 @@
-# Traffic_Monitoring_System
-traffic monitoring system utilizing computer vision AI. This system accurately identifies vehicle types, captures their speed, and extracts vital data to optimize traffic management on highways, aiding in efficient traffic flow control;
+# TrafficMan
+TrafficMan is a traffic monitoring system utilizing computer vision AI. This system accurately identifies vehicle types, captures their speed, and extracts vital data to optimize traffic management on highways, aiding in efficient traffic flow control;
 Vehicle detection using CCTV and online Streaming
 
 
